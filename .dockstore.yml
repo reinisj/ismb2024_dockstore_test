@@ -1,0 +1,4 @@
+ersion: 1.2
+workflows:
+- subclass: WDL
+primaryDescriptorPath: /hello_input.1.wdl
